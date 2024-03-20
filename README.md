@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HPiotroski!
+- 👀 I’m interested in electronics, coding and sport.
+- 🌱 I’m currently learning Embedded C bare-metal programming. 
+- 📫 How to reach me - hpioroski@gmail.com
